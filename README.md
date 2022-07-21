@@ -1,6 +1,6 @@
 # TypeScript Documentation
 
-- prerequisities: Javascript
+
 
 Chapters:
 
