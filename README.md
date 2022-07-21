@@ -694,8 +694,8 @@ user1.display();
       };
 
       userInfo1();
-      userInfo2("Anisul Islam");
-      console.log(userInfo3("Anisul Islam"));
+      userInfo2("bappa saha");
+      console.log(userInfo3("bappa saha"));
    ```
 
 ### 10. DOM Manipulation with typescript
